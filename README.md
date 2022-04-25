@@ -16,3 +16,26 @@ This is an iOS Project developed during the iOS Development course in TU Sofia.
 - Custom side menu with gestures
 1. You can use pan gesture (slide to right)
 2. You can press the menu button in the navigation bar
+
+
+# Задължителни изисквания: 
+* Прилагане на MVC или друг design pattern (VIPER, MVVM и други) 
+* Използване на Interface Builder (Storyboard) 
+* Използване на Swift 
+* Правилна употреба на access controls 
+
+# Избираеми изисквания: 
+* Минимум 3 екрана, свързани един с друг
+* Употреба на UINavigationController 
+* Употреба на UITableView или UICollectionView(UITableView) 
+* Употреба на поне една анимация 
+* Употреба на custom protocol/delegation (protocol)
+* Използване на persistance - Core Data (MongoDB Realm)
+* Създаване на Custom View (Side menu)
+* Създаване на поне един Extension 
+* Използване на enum 
+* Използване на struct 
+* Използване на поне един gesture в логиката на приложението (Side menu - pan gesture)
+* Извличане на данни от сървър (networking) 
+* Custom / Convenience Init (convenience init)
+* Употреба на Singleton pattern - Settings
